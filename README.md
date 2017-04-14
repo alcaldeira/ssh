@@ -1,4 +1,4 @@
-# create an ssh key
+#create an ssh key
 
 `
 ssh-keygen -t RSA
