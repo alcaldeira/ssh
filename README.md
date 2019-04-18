@@ -1,12 +1,3 @@
-*create an ssh key*
+`ssh-keygen -t rsa -C "otkuth@gmail.com" -f "id_otku"`
 
-`
-ssh-keygen -t RSA
-`
-
-*copy ssh key to remote host*
-
-`
-ssh-copy-id username@remote.net
-`
 
